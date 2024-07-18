@@ -1,0 +1,7 @@
+.flex{
+    color: white;
+}
+.tweet-icons{
+    display: flex;
+    justify-content: space-between;
+}

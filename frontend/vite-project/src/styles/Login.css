@@ -1,0 +1,76 @@
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+  }
+  
+  .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 80%;
+  }
+  
+  .main-logo img {
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 500px;
+    color: white;
+  }
+  
+  .text-container {
+    color: white;
+    text-align: left;
+  }
+  
+  .title {
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .subtitle {
+    margin-top: 16px;
+    margin-bottom: 8px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+  }
+  
+  .input {
+    outline: none;
+    border: 1px solid gray;
+    padding: 8px 12px;
+    border-radius: 50px;
+    margin: 4px 0;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+  }
+  
+  .button {
+    background-color: #1D9BF0;
+    border: none;
+    padding: 12px;
+    margin: 16px 0;
+    border-radius: 50px;
+    font-size: 1rem;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .switch {
+    font-weight: bold;
+    color: #1D9BF0;
+    cursor: pointer;
+  }
+  

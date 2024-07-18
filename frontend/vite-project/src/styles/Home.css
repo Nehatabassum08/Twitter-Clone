@@ -1,0 +1,38 @@
+/* styles/Home.css */
+
+.home-container {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    margin: 0 20px;
+  }
+  
+  .feed-container {
+    width: 100%;
+    border: 1px solid #e1e8ed;
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .feed-container h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .feed-container .tweet {
+    border-bottom: 1px solid #e1e8ed;
+    padding: 15px 0;
+  }
+  
+  .feed-container .tweet:last-child {
+    border-bottom: none;
+  }
+  

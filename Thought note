@@ -1,0 +1,26 @@
+NOTE: I'm removing node modules folder because file size is too large to submit.
+
+
+
+Project Overview
+I built a Twitter clone using React, Node.js, and MongoDB. The project includes features like user authentication, tweet creation and display, and user suggestions.
+
+Key Features
+User Authentication: Secure sign-up, login, and profile management with JWT tokens.
+Tweet Functionality: Users can post tweets with text and images, which appear in the feed with interactive icons for comments, retweets, likes, and shares.
+User Suggestions: A "Who to Follow" section to suggest users, enhancing engagement.
+Responsive Design: Ensured consistent user experience across devices.
+Feed Toggle: Users can switch between "For You" and "Following" feeds.
+Challenges and Solutions
+Styling and Layout: Used Flexbox and CSS Grid to achieve the desired layout and responsiveness.
+Icon Integration: Ensured correct import and class names for displaying icons.
+Backend Integration: Managed asynchronous operations and state with Redux for creating and fetching tweets.
+User Suggestions: Efficient database queries to fetch and display user data.
+Learning Outcomes
+React Skills: Improved understanding of React hooks, Redux, and component architecture.
+Backend Development: Gained experience in API development, database management, and server-side programming.
+UI/UX Design: Learned the importance of responsive design and user-centric features.
+Problem-Solving: Enhanced debugging and problem-solving skills.
+Conclusion
+This project provided a comprehensive overview of full-stack development, reinforcing my skills and introducing me to new tools and techniques. It was a rewarding experience that will be invaluable in future projects.
+
